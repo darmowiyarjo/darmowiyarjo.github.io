@@ -44,8 +44,8 @@ Amalan yang Dianjurkan di Sepertiga Malam:
 ### Berdoa:
  Perbanyaklah doa dan istighfar pada sepertiga malam.
 
-### *Berdzikir:*
+### Berdzikir:
 Berdzikir dengan mengingat nama-nama Allah SWT juga merupakan amalan yang baik.
 
-### *Kesimpulan*
+### Kesimpulan
 Sepertiga malam adalah waktu yang sangat berharga bagi umat Islam. Dengan memanfaatkan waktu ini sebaik-baiknya, kita dapat mendekatkan diri kepada Allah SWT dan meraih keberkahan di dunia dan akhirat.
