@@ -5,18 +5,49 @@ title: Introducing Lanyon
 
 ### Built on Poole
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+### *Keistimewaan Sepertiga Malam*
 
-### Lanyon features
+Sepertiga malam adalah waktu yang sangat istimewa dalam pandangan Islam. Banyak hadis yang menyebutkan keutamaan dan keistimewaan waktu ini. Berikut beberapa di antaranya:
 
-In addition to the features of Poole, Lanyon adds the following:
+### *Waktu Mustajab untuk Berdoa:*
+ Salah satu keistimewaan terbesar sepertiga malam adalah sebagai waktu yang paling mustajab untuk berdoa. Allah SWT turun ke langit dunia pada sepertiga malam terakhir dan mendengarkan doa-doa hamba-Nya.
 
-### Browser support
+### *Kesempatan untuk Bertaubat:*
+ Sepertiga malam juga menjadi waktu yang baik untuk bertaubat dan memohon ampunan kepada Allah SWT.
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+###  *Meningkatkan Keimanan:*
+Bangun di sepertiga malam untuk beribadah dapat meningkatkan keimanan dan ketaqwaan seseorang.
 
-### Notes
+### *Menyegarkan Jiwa dan Raga:*
+ Beribadah di malam hari, terutama sepertiga malam, dapat menyegarkan jiwa dan raga setelah seharian beraktivitas.
 
-Darmowiyarjo Notes is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+### *Mendapatkan Rahmat Allah:*
+ Allah SWT akan memberikan rahmat dan keberkahan kepada hamba-Nya yang bangun di sepertiga malam untuk beribadah.
 
-Thanks!
+Mengapa Sepertiga Malam Sangat Istimewa?
+
+### *Turunnya Allah SWT:*
+ Seperti yang telah disebutkan sebelumnya, Allah SWT turun ke langit dunia pada sepertiga malam terakhir. Ini adalah kesempatan emas bagi kita untuk bermunajat langsung kepada-Nya.
+
+### *Waktu Tenang dan Sunyi:*
+Pada sepertiga malam, biasanya suasana lebih tenang dan sunyi dibandingkan dengan siang hari. Hal ini memungkinkan kita untuk lebih fokus dalam beribadah dan bermunajat.
+
+### *Jauh dari Kesibukan Dunia:*
+ Di malam hari, kita cenderung jauh dari kesibukan duniawi. Hal ini memungkinkan kita untuk lebih dekat dengan Allah SWT.
+
+Amalan yang Dianjurkan di Sepertiga Malam:
+
+### *Shalat Tahajud:*
+ Shalat tahajud adalah salah satu amalan yang sangat dianjurkan pada sepertiga malam.
+
+### *Membaca Al-Qur'an:*
+ Membaca Al-Qur'an di sepertiga malam juga sangat dianjurkan.
+
+### *Berdoa:*
+ Perbanyaklah doa dan istighfar pada sepertiga malam.
+
+### *Berdzikir:*
+Berdzikir dengan mengingat nama-nama Allah SWT juga merupakan amalan yang baik.
+
+### *Kesimpulan*
+Sepertiga malam adalah waktu yang sangat berharga bagi umat Islam. Dengan memanfaatkan waktu ini sebaik-baiknya, kita dapat mendekatkan diri kepada Allah SWT dan meraih keberkahan di dunia dan akhirat.
