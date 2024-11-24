@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Keistimewaan Sepertiga Malam
 ---
-
-### Built on Poole
 
 ### *Keistimewaan Sepertiga Malam*
 
